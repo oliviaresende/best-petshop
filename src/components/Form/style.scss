@@ -1,0 +1,9 @@
+.button-container {
+  display: flex;
+  justify-content: center;
+
+  .ant-btn-primary {
+    background: grey;
+    border-color: grey;
+  }
+}

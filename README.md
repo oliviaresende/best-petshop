@@ -6,7 +6,7 @@ Plataformauma para encontrar o melhor petshop para levar os cães. O melhor pets
 ## *Sobre o projeto* ⭐️
 ### *Principais funcionalidades:*
 
-- A partir da data e quantidade de cães grandes e pequenos, retorna uma lista ordenada, onde o primeiro Petshop é o melhor para pesquisa.
+- A partir da data e quantidade de cães grandes e pequenos, retorna uma lista ordenada, onde o primeiro Petshop é o melhor com base na pesquisa.
 
 ### *Tecnologias usadas:*
 
@@ -56,5 +56,3 @@ O comando para **testar** seu projeto:
 
 ```
   npm test
-
-****

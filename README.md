@@ -1,6 +1,8 @@
 # Projeto:  Best Petshop
 
-Plataformauma para encontrar o melhor petshop para levar os cães. O melhor petshop será o que oferecer menores preços, em caso de empate o melhor é o mais próximo do canil.
+Plataforma para encontrar o melhor petshop para levar os cães. O melhor petshop será o que oferecer menores preços, em caso de empate o melhor é o mais próximo do canil.
+
+Para acessar a aplicação [clique aqui](https://bestpetshop.netlify.app/).
 
 ****
 ## *Sobre o projeto* ⭐️
